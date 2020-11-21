@@ -9,3 +9,4 @@ def countdown(seconds_to_midnight)
   seconds_to_midnight.to_s + " left. HAPPY NEW YEAR!"
 end
 end
+end
